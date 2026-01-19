@@ -1,0 +1,33 @@
+
+You : taj mahal 
+Jarvis : The Taj Mahal is a white marble mausoleum located in Agra, Uttar Pradesh, India. It was built by Mughal Emperor Shah Jahan in memory of his third wife, Mumtaz Mahal. The Taj Mahal is widely recognized as "the jewel of Muslim art in India and one of the universally admired masterpieces of the world's heritage".
+You : python -u "c:\Users\DELL\OneDrive\Desktop\DAJarvis-master\Main.py" 
+Jarvis : Please provide input.
+You : temperature in mohali 
+Jarvis : The temperature in Mohali is currently 27 degrees Celsius.
+You : python -u "c:\Users\DELL\OneDrive\Desktop\DAJarvis-master\Functions.py" 
+Jarvis : Please provide input.
+You : python -u "c:\Users\DELL\OneDrive\Desktop\DAJarvis-master\Main.py" 
+Jarvis : Please provide input.
+You : who is the 
+Jarvis : Please provide a complete question.
+You : who is the prime minister of india 
+Jarvis : The prime minister of India is Narendra Modi.
+You : who is the president of india 
+Jarvis : The president of India is Ram Nath Kovind.
+You : who is the prime minister of india 
+Jarvis : The prime minister of India is Narendra Modi.
+You : for mommy 
+Jarvis : I'm sorry, I don't understand what you're asking for.
+You : banjara 
+Jarvis : The Banjara people are a community of nomadic people found in India. They are also known as Lamani, Lambani, or Labhani.
+You : download 
+Jarvis : Please provide a specific file or application to download.
+You : who is the director of bade achhe lagte hain serial in on sony 
+Jarvis : The director of the Bade Achhe Lagte Hain serial on Sony is Ekta Kapoor.
+You : ok jarvis good bye 
+Jarvis : Thank you for using Jarvis. Goodbye!
+You : who is the prime minister of india 
+Jarvis : The prime minister of India is Narendra Modi.
+You : yeah bro it's working 
+Jarvis : I'm glad to hear that it's working for you!
